@@ -7,7 +7,7 @@ export default function Footer() {
             <div className='flex gap-20 '>
                 <div className='w-2/5 flex flex-col gap-4'>
                     <img src='/Group 8.png' alt='image' className='w-[392px] h-[72px]' />
-                    <p>"Tailored for Success: BillBuddy - Crafted with Care for Small & Medium Businesses Across India. Experience Efficiency, Reliability, and Growth Today!"</p>
+                    <p> &quot; Tailored for Success: BillBuddy - Crafted with Care for Small & Medium Businesses Across India. Experience Efficiency, Reliability, and Growth Today! &quot;</p>
                     <div className='relative'>
                         <input type='text' placeholder='Enter Mobile Number' className='px-2 py-4 w-full bg-[#F5F6F8] rounded-lg' />
                         <button className='rounded-lg px-[24px] py-[10px] bg-mixedColor text-[#fff] absolute right-[6px] top-[6px] flex gap-1 items-center'><span>Start Today </span><span><img src='/Arrow_Right_LG.svg' alt='image' className='w-[16px] h-[16px]' /></span> </button>

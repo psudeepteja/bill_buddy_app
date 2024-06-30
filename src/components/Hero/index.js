@@ -19,7 +19,7 @@ export default function Hero() {
         <div className='relative'><img src='/Group.svg' alt='image' className='absolute left-[-70px] top-[-125px] w-[46px] h-[28px]' /></div>
         <div className='relative'><img src='/Group 9.svg' alt='image' className='absolute  right-[-50px] bottom-[315px] w-[32px] h-[55px]' /></div>
         <div className='relative'><img src='/Group 7.svg' alt='image' className='absolute  right-[-57px] bottom-[0px] w-[109px] h-[126px] z-10 ' /></div>
-        <div className='relative'><img src='/vector.svg' alt='image' className='absolute  right-[0px] bottom-[0px] w-[86px] h-[99px] ' /></div>
+        <div className='relative'><img src='/Vector.svg' alt='image' className='absolute  right-[0px] bottom-[0px] w-[86px] h-[99px] z-0' /></div>
       </div>
     </div>
   )
